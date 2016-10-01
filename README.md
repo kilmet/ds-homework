@@ -1,2 +1,2 @@
 # ds-homework
-Homework repository for Data Science43
+Homework repository for Data Science 43
